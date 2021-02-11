@@ -23,3 +23,17 @@ Linux/Mac:
 pip install googlepy
 googlepy
 ```
+
+# Using in programs (after install)
+```
+import googlepy
+googlepy()
+```
+
+# Development
+```
+git clone https://github.com/Sakurai07/Google.py/
+cd Google.py
+python -m build
+```
+**READ LICENSE FIRST**
